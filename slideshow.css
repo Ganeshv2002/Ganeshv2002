@@ -12,9 +12,9 @@ h1 {
   text-align: center;
   padding: 10px;
   font-size: 2em;
-  background-color: #333;
+  background-color: rgba(0, 0, 0, 0.904);
   border-bottom: 2px solid #000;
-  color: #fff;
+  color: rgba(173, 150, 150, 0.377);
   font-weight: 300;
   margin: 0 0 15px;
 }
@@ -24,7 +24,7 @@ h1 {
 }
 .slide-container .slides {
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 1px solid rgb(42, 33, 90);
   overflow: hidden;
   padding: 5px;
   border-radius: 5px;
@@ -47,7 +47,7 @@ h1 {
   display: inline-block;
   width: 10px;
   height: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid rgb(26, 20, 83);
   border-radius: 100%;
   padding: 5px;
   transition: all 0.5s linear;
